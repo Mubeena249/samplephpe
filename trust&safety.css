@@ -1,0 +1,42 @@
+*.navbar img{
+    width:150px;
+}
+.service p{
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.safety h1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.read figure img{
+    width: 25%;
+    text-align: start;
+ }
+ .read figure{
+    text-align: start;
+    padding: 10px;
+ }
+
+ .second figure img{
+    width:100%;
+    text-align: start;
+    height: 600px;
+}
+.second figure{
+    padding: 10px;
+}
+.see figure img{
+    width: 100%;
+    text-align: start;
+ }
+ .see figure{
+    text-align: start;
+    padding: 10px;
+ }

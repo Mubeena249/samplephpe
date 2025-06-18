@@ -1,0 +1,33 @@
+*{
+    box-sizing:border-box}
+.navbar img{
+    width:150px;
+}
+.start h1{
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.start{
+    color: white;
+}
+.start img{
+    width: 100%;
+    height: 100%;
+}
+.start h1,.start h3{
+    text-align: start;
+    justify-content: center;
+    align-items: center;
+}
+.why h3{
+    color: deepskyblue;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+  }
+  .flex{
+    display: flex;
+    flex-wrap: wrap;
+}

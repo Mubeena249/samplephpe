@@ -1,0 +1,22 @@
+*.navbar img{
+    width:150px;
+}
+.solution h4{
+    color: rgb(95, 37, 159);
+    padding: 10px;
+}
+.solution p{
+    font-size: 15px;
+    font-weight: 200;
+    padding: 10px;
+}
+.desk h4,h2{
+    color: rgb(95, 37, 159);
+    padding: 10px;
+}
+.desk p{
+    font-size: 15px;
+    font-weight: 200;
+    padding: 10px;
+   
+}

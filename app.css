@@ -1,0 +1,17 @@
+*{
+    box-sizing:border-box}
+.navbar img{
+    width:150px;
+}
+.service h1{
+    font-weight: bold;
+    font-size: 60px;
+    color: blueviolet;
+}
+.service p{
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    color: grey;
+    font-size: 20px;
+}

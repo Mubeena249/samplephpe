@@ -1,0 +1,72 @@
+*{
+    box-sizing:border-box}
+.navbar img{
+    width:150px;
+}
+.watch{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.watch span:hover{
+    background-color: blueviolet;
+    color: white;
+}
+.store{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.store h1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: darkblue;
+}
+
+.Card{
+    z-index: 1;
+    position: fixed;
+    bottom: 0;
+}
+.partner{
+    color: white;
+    background-color: deepskyblue;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 150px;
+}
+.partner:hover{
+    background-color: steelblue;
+}
+.carousel-item carousel-caption{
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+.insurance img {
+    width: 50%;
+    
+}
+.insurance{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.over{
+    background-color:mediumpurple;
+}
+.store{
+    
+    background-image: linear-gradient(to top,rgba(147, 112, 216, 0),rgba(147, 112, 216, 0.312));
+ }
+ .part,.business img{
+    animation-name: fadeInLeft;
+    animation-duration: 2s;
+    animation-iteration-count:3;
+    animation-direction: alternate; 
+ }
+
